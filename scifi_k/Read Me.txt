@@ -1,0 +1,35 @@
+Theme Scifi_K for XOOPS
+
+Package contains:
+
+-2block templates for system "module"
+-1font used in all graphic text
+-3PSD files 
+-1 Read me file :)
+
+2 system blocks were a bit modified because they were not displaying correctly in IE (theme block and site info block)
+
+Font is included for editing the header and buttons
+
+PSD files are as follows:
+
+-1 PSD of the entire layout containing all ellements;
+-1 PSD of the header for easier editing fornot so advanced users
+-1 PSD of the footer for the same reason as above
+
+ALL PSD files are already sliced so it should be pretty easy to work them
+
+Footer PSD has the effect of mouse-over in theme, header PSD has the effect of mouse out in the theme...it was done like that
+so one ca see the difference and coppy one layer atributes to the other as they share the same effects.
+
+Theme is a static 994px theme with 3 columns...i wuld recomend however using just two of them so you won't have the ellememts 
+crowded in a small space.
+
+Theme is FREE to use as you please as long as you DON'T sell or make it available to download conditioned by registration.
+
+Theme is compliant XHTML 1.0, CSS 3
+
+For support with this theme visit www.aphexthemes.com
+
+Enjoy 
+
